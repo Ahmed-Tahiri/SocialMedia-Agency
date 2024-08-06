@@ -1,0 +1,9 @@
+.className {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 300px;
+}
+@media screen and (max-width: "980px") {
+}
